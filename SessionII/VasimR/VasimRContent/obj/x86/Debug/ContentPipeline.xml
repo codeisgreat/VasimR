@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\starfield.png</Source>
+      <Name>Images\starfield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\Images\starfield.xnb</Output>
+      <Time>2014-01-15T22:19:13.6458615-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background.png</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Time>2014-01-15T22:32:10.3907319-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rocket_64X29.png</Source>
+      <Name>Images\rocket_64X29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\Images\rocket_64X29.xnb</Output>
+      <Time>2014-01-29T18:13:34.778847-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Rocket256x29.png</Source>
+      <Name>Images\Rocket256x29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\Images\Rocket256x29.xnb</Output>
+      <Time>2014-01-29T18:51:23.8776588-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tachometer.png</Source>
+      <Name>Images\tachometer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\Images\tachometer.xnb</Output>
+      <Time>2014-02-02T22:14:47.0263451-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\needle.png</Source>
+      <Name>Images\needle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\Images\needle.xnb</Output>
+      <Time>2014-02-02T22:38:04.5136076-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimRContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimRContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimR\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-30T19:04:59.0856771-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
