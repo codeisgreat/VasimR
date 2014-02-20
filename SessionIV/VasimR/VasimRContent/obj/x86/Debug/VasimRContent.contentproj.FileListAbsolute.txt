@@ -1,0 +1,3 @@
+C:\Users\Juan\Desktop\VasimR\VasimR\VasimRContent\obj\x86\Debug\VasimRContent.contentprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\VasimR-Main\VasimR\VasimRContent\obj\x86\Debug\VasimRContent.contentprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\GitHub\VasimR\SessionIV\VasimR\VasimRContent\obj\x86\Debug\VasimRContent.contentprojResolveAssemblyReference.cache
